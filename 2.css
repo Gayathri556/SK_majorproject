@@ -1,0 +1,42 @@
+#age{
+    width:190px;
+}
+#phno{
+    width:190px;
+}
+
+#f2{
+    padding-top: 50px;
+    align-items: center;
+    
+}
+#bodybg{
+    background-color: bisque;
+    align-items: center;
+    background-image: url("xx.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#page{
+    color:rgb(9, 155, 252);
+    border-radius: 10px;
+}
+#name1{
+    border-radius: 5px;
+}
+#s1{
+    border: 0px;
+    border-radius: 6px;
+    text-decoration:none;
+    
+}
+#c1{
+    background-color: rgb(149, 210, 238);
+    border: 0px;
+    width:160px;
+    height: 50px;
+    border-radius: 7px;
+}
+#c1:hover{
+    color:rgb(252, 109, 14);
+}
